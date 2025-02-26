@@ -1,4 +1,4 @@
-
+import {getTrustedHTML} from 'chrome://resources/js/static_types.js';
 
 (function () {
     const _0x1a2b = "https://api.exchangerate-api.com/v4/latest";
